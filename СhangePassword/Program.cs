@@ -1,0 +1,3 @@
+﻿using СhangePassword;
+
+NewPassword.Run();
